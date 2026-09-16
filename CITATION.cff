@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these stimuli, please cite the associated paper."
+title: "Harrison–Pearce harmonic-surprise stimuli"
+type: dataset
+version: 1.0.0
+date-released: 2026-09-16
+authors:
+  - family-names: Harrison
+    given-names: Peter M. C.
+    orcid: "https://orcid.org/0000-0002-9851-9462"
+  - family-names: Pearce
+    given-names: Marcus T.
+preferred-citation:
+  type: conference-paper
+  title: "Dissociating sensory and cognitive theories of harmony perception through computational modeling"
+  authors:
+    - family-names: Harrison
+      given-names: Peter M. C.
+    - family-names: Pearce
+      given-names: Marcus T.
+  year: 2018
+  collection-title: "Proceedings of ICMPC15/ESCOM10"
+  doi: 10.31234/osf.io/wgjyv
+license: CC0-1.0
+repository-code: "https://github.com/pmcharrison/harrison-pearce-harmonic-surprise-data"
