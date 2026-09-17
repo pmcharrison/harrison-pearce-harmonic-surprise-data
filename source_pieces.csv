@@ -1,0 +1,301 @@
+stimulus_id,stimulus_label,artist,title,idyom_composition_index,hcorp_sequence_number,hcorp_record_id,mcgill_billboard_id
+521,id=521_genre=popular_c-id=508_e-id=30_ic_category_1,Creedence Clearwater Revival,Bad Moon Rising,508,509,hcorp:popular_1:0509,852
+522,id=522_genre=popular_c-id=403_e-id=164_ic_category_1,Eric Carmen,Sunrise,403,404,hcorp:popular_1:0404,655
+523,id=523_genre=popular_c-id=232_e-id=14_ic_category_1,George Harrison,This Song,232,233,hcorp:popular_1:0233,361
+524,id=524_genre=popular_c-id=201_e-id=32_ic_category_1,Little River Band,The Other Guy,201,202,hcorp:popular_1:0202,310
+525,id=525_genre=popular_c-id=485_e-id=166_ic_category_1,Rick James,Super Freak Part One,485,486,hcorp:popular_1:0486,812
+526,id=526_genre=popular_c-id=309_e-id=64_ic_category_1,James Brown,My Thang,309,310,hcorp:popular_1:0310,490
+527,id=527_genre=popular_c-id=648_e-id=52_ic_category_1,Los Lobos,Will The Wolf Survive,648,649,hcorp:popular_1:0649,1119
+528,id=528_genre=popular_c-id=562_e-id=150_ic_category_1,George Benson,Breezin',562,563,hcorp:popular_1:0563,967
+529,id=529_genre=popular_c-id=649_e-id=49_ic_category_1,Simon And Garfunel,A Hazy Shade Of Winter,649,650,hcorp:popular_1:0650,1121
+530,id=530_genre=popular_c-id=152_e-id=55_ic_category_1,Kenny Rogers,You Decorated My Life,152,153,hcorp:popular_1:0153,238
+531,id=531_genre=popular_c-id=231_e-id=199_ic_category_1,The Cure,Just Like Heaven,231,232,hcorp:popular_1:0232,359
+532,id=532_genre=popular_c-id=257_e-id=10_ic_category_1,Shirley Brown,Woman To Woman,257,258,hcorp:popular_1:0258,400
+533,id=533_genre=popular_c-id=324_e-id=145_ic_category_1,"Crosby, Stills & Nash",Suite: Judy Blue Eyes,324,325,hcorp:popular_1:0325,518
+534,id=534_genre=popular_c-id=211_e-id=23_ic_category_1,Elvis Presley,My Boy,211,212,hcorp:popular_1:0212,326
+535,id=535_genre=popular_c-id=65_e-id=23_ic_category_1,Bread,If,65,66,hcorp:popular_1:0066,106
+536,id=536_genre=popular_c-id=336_e-id=26_ic_category_1,Jackson Browne,Redneck Friend,336,337,hcorp:popular_1:0337,545
+537,id=537_genre=popular_c-id=392_e-id=55_ic_category_1,Michael Jackson,Human Nature,392,393,hcorp:popular_1:0393,637
+538,id=538_genre=popular_c-id=113_e-id=79_ic_category_1,Little River Band,Help Is On The Way,113,114,hcorp:popular_1:0114,187
+539,id=539_genre=popular_c-id=278_e-id=8_ic_category_1,Dion,Where Or When,278,279,hcorp:popular_1:0279,434
+540,id=540_genre=popular_c-id=122_e-id=30_ic_category_1,Chicago,Along Comes A Woman,122,123,hcorp:popular_1:0123,198
+541,id=541_genre=popular_c-id=125_e-id=57_ic_category_1,Jimmy Cliff,"Wonderful World, Beautiful People",125,126,hcorp:popular_1:0126,203
+542,id=542_genre=popular_c-id=175_e-id=55_ic_category_1,REO Speedwagon,Time For Me To Fly,175,176,hcorp:popular_1:0176,268
+543,id=543_genre=popular_c-id=532_e-id=116_ic_category_1,The Kinks,Till The End Of The Day,532,533,hcorp:popular_1:0533,904
+544,id=544_genre=popular_c-id=446_e-id=224_ic_category_1,Stevie Wonder,Do I Do,446,447,hcorp:popular_1:0447,736
+545,id=545_genre=popular_c-id=646_e-id=8_ic_category_1,The Everly Brothers,Ebony Eyes,646,647,hcorp:popular_1:0647,1116
+546,id=546_genre=popular_c-id=236_e-id=10_ic_category_1,The Buckinghams,Kind Of A Drag,236,237,hcorp:popular_1:0237,369
+547,id=547_genre=popular_c-id=444_e-id=57_ic_category_1,Dean Martin,I Will,444,445,hcorp:popular_1:0445,734
+548,id=548_genre=popular_c-id=67_e-id=23_ic_category_1,The tee set,Ma belle amie,67,68,hcorp:popular_1:0068,109
+549,id=549_genre=popular_c-id=672_e-id=66_ic_category_1,Paul McCartney & Wings,My Love,672,673,hcorp:popular_1:0673,1163
+550,id=550_genre=popular_c-id=3_e-id=84_ic_category_1,Billy Joel,An Innocent Man,3,4,hcorp:popular_1:0004,10
+551,id=551_genre=popular_c-id=612_e-id=27_ic_category_1,Elvis Presley,My Wish Came True,612,613,hcorp:popular_1:0613,1055
+552,id=552_genre=popular_c-id=558_e-id=30_ic_category_1,Abba,Take A Chance On Me,558,559,hcorp:popular_1:0559,961
+553,id=553_genre=popular_c-id=720_e-id=6_ic_category_1,Simon & Garfunkel,El Condor Pasa,720,721,hcorp:popular_1:0721,1261
+554,id=554_genre=popular_c-id=36_e-id=11_ic_category_1,Gino Vanelli,Hurts To Be In Love,36,37,hcorp:popular_1:0037,62
+555,id=555_genre=popular_c-id=174_e-id=59_ic_category_1,Johnny Tillotson,Worried Guy,174,175,hcorp:popular_1:0175,267
+556,id=556_genre=popular_c-id=540_e-id=95_ic_category_1,The Ventures,Perfidia,540,541,hcorp:popular_1:0541,926
+557,id=557_genre=popular_c-id=150_e-id=51_ic_category_1,John Denver,Back Home Again,150,151,hcorp:popular_1:0151,235
+558,id=558_genre=popular_c-id=292_e-id=83_ic_category_1,Sammy Hagar,Give To Live,292,293,hcorp:popular_1:0293,465
+559,id=559_genre=popular_c-id=464_e-id=15_ic_category_1,Charlie Rich,A Very Special Love Song,464,465,hcorp:popular_1:0465,779
+560,id=560_genre=popular_c-id=370_e-id=54_ic_category_1,Billy Swan,I Can Help,370,371,hcorp:popular_1:0371,601
+561,id=561_genre=popular_c-id=167_e-id=68_ic_category_1,Max Frost & The Troopers,Shape Of Things To Come,167,168,hcorp:popular_1:0168,257
+562,id=562_genre=popular_c-id=49_e-id=109_ic_category_1,Paul Simon,You Can Call Me Al,49,50,hcorp:popular_1:0050,81
+563,id=563_genre=popular_c-id=287_e-id=75_ic_category_1,Paul McCartney,With a Little Luck,287,288,hcorp:popular_1:0288,456
+564,id=564_genre=popular_c-id=87_e-id=31_ic_category_1,Dion,Runaround Sue,87,88,hcorp:popular_1:0088,145
+565,id=565_genre=popular_c-id=46_e-id=60_ic_category_1,Little River Band,Reminiscing,46,47,hcorp:popular_1:0047,77
+566,id=566_genre=popular_c-id=17_e-id=135_ic_category_1,Heart,Crazy On You,17,18,hcorp:popular_1:0018,33
+567,id=567_genre=popular_c-id=609_e-id=9_ic_category_1,Pink Floyd,Another Brick In The Wall (Part II),609,610,hcorp:popular_1:0610,1052
+568,id=568_genre=popular_c-id=680_e-id=81_ic_category_1,Little River Band,Happy Anniversary,680,681,hcorp:popular_1:0681,1174
+569,id=569_genre=popular_c-id=9_e-id=20_ic_category_1,The J. Geils Band,Just Can't Wait,9,10,hcorp:popular_1:0010,21
+570,id=570_genre=popular_c-id=547_e-id=52_ic_category_1,Bob Seger,Like A Rock,547,548,hcorp:popular_1:0548,941
+571,id=571_genre=popular_c-id=279_e-id=10_ic_category_1,Dion,Ruby Baby,279,280,hcorp:popular_1:0280,439
+572,id=572_genre=popular_c-id=331_e-id=23_ic_category_1,James Brown,Baby You're Right,331,332,hcorp:popular_1:0332,533
+573,id=573_genre=popular_c-id=200_e-id=54_ic_category_1,Cyndi Lauper,All Through The Night,200,201,hcorp:popular_1:0201,309
+574,id=574_genre=popular_c-id=694_e-id=12_ic_category_1,Blondie,Island Of Lost Souls,694,695,hcorp:popular_1:0695,1203
+575,id=575_genre=popular_c-id=340_e-id=14_ic_category_1,Peaches and Herb,Shake Your Groove Thing,340,341,hcorp:popular_1:0341,550
+576,id=576_genre=popular_c-id=470_e-id=139_ic_category_1,Eric Carmen,Hungry Eyes,470,471,hcorp:popular_1:0471,791
+577,id=577_genre=popular_c-id=84_e-id=59_ic_category_1,Electric Prunes,I Had Too Much To Dream,84,85,hcorp:popular_1:0085,134
+578,id=578_genre=popular_c-id=171_e-id=67_ic_category_1,Wednesday,Last Kiss,171,172,hcorp:popular_1:0172,263
+579,id=579_genre=popular_c-id=226_e-id=103_ic_category_1,Sammy Hagar,I Can't Drive 55,226,227,hcorp:popular_1:0227,353
+580,id=580_genre=popular_c-id=425_e-id=145_ic_category_1,Jeff Beck,People Get Ready,425,426,hcorp:popular_1:0426,698
+581,id=581_genre=popular_c-id=191_e-id=75_ic_category_1,Eagles,Lyin' Eyes,191,192,hcorp:popular_1:0192,296
+582,id=582_genre=popular_c-id=316_e-id=98_ic_category_1,Engelbert Humperdinck,After the Lovin',316,317,hcorp:popular_1:0317,506
+583,id=583_genre=popular_c-id=208_e-id=27_ic_category_1,The Everly Brothers,Bird Dog,208,209,hcorp:popular_1:0209,322
+584,id=584_genre=popular_c-id=675_e-id=34_ic_category_1,Bobbie Gentry,Ode To Billie Joe,675,676,hcorp:popular_1:0676,1168
+585,id=585_genre=popular_c-id=264_e-id=70_ic_category_1,Harry Chapin,Sunday Morning Sunshine,264,265,hcorp:popular_1:0265,412
+586,id=586_genre=popular_c-id=701_e-id=51_ic_category_1,Rare Earth,Get Ready,701,702,hcorp:popular_1:0702,1220
+587,id=587_genre=popular_c-id=117_e-id=40_ic_category_1,Dinah Washington,Unforgettable,117,118,hcorp:popular_1:0118,192
+588,id=588_genre=popular_c-id=68_e-id=33_ic_category_1,The Byrds,Eight Miles High,68,69,hcorp:popular_1:0069,111
+589,id=589_genre=popular_c-id=542_e-id=25_ic_category_1,Tommy James,Mony Mony,542,543,hcorp:popular_1:0543,928
+590,id=590_genre=popular_c-id=407_e-id=84_ic_category_1,Pointer Sisters,He's so shy,407,408,hcorp:popular_1:0408,663
+591,id=591_genre=popular_c-id=593_e-id=98_ic_category_1,Greg Kihn,Lucky,593,594,hcorp:popular_1:0594,1027
+592,id=592_genre=popular_c-id=462_e-id=223_ic_category_1,Marc Cohn,Walking In Memphis,462,463,hcorp:popular_1:0463,775
+593,id=593_genre=popular_c-id=571_e-id=42_ic_category_1,Natalie Cole,Unforgettable,571,572,hcorp:popular_1:0572,982
+594,id=594_genre=popular_c-id=138_e-id=114_ic_category_1,Rick Springfield,Jessie's Girl,138,139,hcorp:popular_1:0139,217
+595,id=595_genre=popular_c-id=237_e-id=18_ic_category_1,Neneh Cherry,Kisses On The Wind,237,238,hcorp:popular_1:0238,370
+596,id=596_genre=popular_c-id=327_e-id=97_ic_category_1,Pet Shop Boys,Love Comes Quickly,327,328,hcorp:popular_1:0328,526
+597,id=597_genre=popular_c-id=568_e-id=133_ic_category_1,Isaac Hayes,The Look Of Love,568,569,hcorp:popular_1:0569,978
+598,id=598_genre=popular_c-id=386_e-id=6_ic_category_1,Bonnie Raitt,Nick of Time,386,387,hcorp:popular_1:0387,627
+599,id=599_genre=popular_c-id=730_e-id=40_ic_category_1,Shannon,Let The Music Play,730,731,hcorp:popular_1:0731,1279
+600,id=600_genre=popular_c-id=223_e-id=58_ic_category_1,Tina Turner,The Best,223,224,hcorp:popular_1:0224,348
+601,id=601_genre=popular_c-id=595_e-id=71_ic_category_1,James Brown,Down And Out In New York City,595,596,hcorp:popular_1:0596,1032
+602,id=602_genre=popular_c-id=695_e-id=55_ic_category_1,Bob Seger,Even Now,695,696,hcorp:popular_1:0696,1208
+603,id=603_genre=popular_c-id=706_e-id=17_ic_category_1,Bonnie Pointer,Heaven Must Have Sent You,706,707,hcorp:popular_1:0707,1232
+604,id=604_genre=popular_c-id=504_e-id=51_ic_category_1,Talking Heads,Burning Down The House,504,505,hcorp:popular_1:0505,844
+605,id=605_genre=popular_c-id=30_e-id=31_ic_category_1,Led Zeppelin,Over The Hills and Far Away,30,31,hcorp:popular_1:0031,53
+606,id=606_genre=popular_c-id=474_e-id=49_ic_category_1,Barry White,"You're The First, The Last, My Everything",474,475,hcorp:popular_1:0475,796
+607,id=607_genre=popular_c-id=245_e-id=190_ic_category_1,Sting,If you love somebody set them free,245,246,hcorp:popular_1:0246,384
+608,id=608_genre=popular_c-id=721_e-id=10_ic_category_1,Bobby Darin,If I Were A Carpenter,721,722,hcorp:popular_1:0722,1265
+609,id=609_genre=popular_c-id=344_e-id=81_ic_category_1,Dolly Parton,Baby I'm Burnin',344,345,hcorp:popular_1:0345,559
+610,id=610_genre=popular_c-id=103_e-id=49_ic_category_1,Twilight Zone,Golden Earring,103,104,hcorp:popular_1:0104,170
+611,id=611_genre=popular_c-id=188_e-id=28_ic_category_1,Rita Coolidge,The Way You Do The Things You Do,188,189,hcorp:popular_1:0189,291
+612,id=612_genre=popular_c-id=134_e-id=7_ic_category_1,Mel Torme,Comin' Home Baby,134,135,hcorp:popular_1:0135,213
+613,id=613_genre=popular_c-id=596_e-id=22_ic_category_1,The Byrds,Goin' Back,596,597,hcorp:popular_1:0597,1033
+614,id=614_genre=popular_c-id=457_e-id=9_ic_category_1,Grand Funk Railroad,Walk Like A Man,457,458,hcorp:popular_1:0458,762
+615,id=615_genre=popular_c-id=187_e-id=59_ic_category_1,The Hollies,Long Dark Road,187,188,hcorp:popular_1:0188,290
+616,id=616_genre=popular_c-id=248_e-id=27_ic_category_1,Rolling Stones,Time Is On My Side,248,249,hcorp:popular_1:0249,387
+617,id=617_genre=popular_c-id=130_e-id=35_ic_category_1,Chicago,Another Rainy Day in New York City,130,131,hcorp:popular_1:0131,208
+618,id=618_genre=popular_c-id=521_e-id=78_ic_category_1,De La Soul,Me Myself And I,521,522,hcorp:popular_1:0522,887
+619,id=619_genre=popular_c-id=711_e-id=12_ic_category_1,Marie Osmond,Paper Roses,711,712,hcorp:popular_1:0712,1245
+620,id=620_genre=popular_c-id=528_e-id=115_ic_category_1,Eric Clapton,I Can't Stand It,528,529,hcorp:popular_1:0529,898
+621,id=621_genre=popular_c-id=164_e-id=35_ic_category_1,Dion,Love Came To Me,164,165,hcorp:popular_1:0165,253
+622,id=622_genre=popular_c-id=190_e-id=78_ic_category_1,Jerry Jeff Walker,Mr. Bojangles,190,191,hcorp:popular_1:0191,294
+623,id=623_genre=popular_c-id=267_e-id=70_ic_category_1,Joni Mitchell,"(You're So Square) Baby, I Don't Care",267,268,hcorp:popular_1:0268,417
+624,id=624_genre=popular_c-id=428_e-id=81_ic_category_1,Billy Idol,White Wedding,428,429,hcorp:popular_1:0429,701
+625,id=625_genre=popular_c-id=440_e-id=5_ic_category_1,The Beatles,Eight Days A Week,440,441,hcorp:popular_1:0441,727
+626,id=626_genre=popular_c-id=692_e-id=65_ic_category_1,The Doobie Brothers,Echoes Of Love,692,693,hcorp:popular_1:0693,1200
+627,id=627_genre=popular_c-id=468_e-id=49_ic_category_1,Bruce Channel,Hey Baby,468,469,hcorp:popular_1:0469,789
+628,id=628_genre=popular_c-id=184_e-id=22_ic_category_1,Nancy Sinatra,These Boots Are Made For Walkin',184,185,hcorp:popular_1:0185,284
+629,id=629_genre=popular_c-id=114_e-id=50_ic_category_1,Cheap Trick,I Want You To Want Me,114,115,hcorp:popular_1:0115,188
+630,id=630_genre=popular_c-id=352_e-id=50_ic_category_1,Baltimora,"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")",352,353,hcorp:popular_1:0353,572
+631,id=631_genre=popular_c-id=732_e-id=33_ic_category_1,George Harrison,Crackerbox Palace,732,733,hcorp:popular_1:0733,1282
+632,id=632_genre=popular_c-id=683_e-id=37_ic_category_1,"Emerson, Lake & Palmer",Lucky Man,683,684,hcorp:popular_1:0684,1180
+633,id=633_genre=popular_c-id=684_e-id=13_ic_category_1,Paul Revere & The Raiders,Kicks,684,685,hcorp:popular_1:0685,1181
+634,id=634_genre=popular_c-id=242_e-id=51_ic_category_1,Focus,Hocus Pocus,242,243,hcorp:popular_1:0243,381
+635,id=635_genre=popular_c-id=182_e-id=110_ic_category_1,Heart,There's the Girl,182,183,hcorp:popular_1:0183,281
+636,id=636_genre=popular_c-id=399_e-id=34_ic_category_1,The Supremes,Stoned Love,399,400,hcorp:popular_1:0400,649
+637,id=637_genre=popular_c-id=110_e-id=68_ic_category_1,ABBA,Chiquitita,110,111,hcorp:popular_1:0111,183
+638,id=638_genre=popular_c-id=115_e-id=15_ic_category_1,Gloria Gaynor,Never Can Say Goodbye,115,116,hcorp:popular_1:0116,190
+639,id=639_genre=popular_c-id=522_e-id=200_ic_category_1,Steve Winwood,Don t You Know What The Night Can Do,522,523,hcorp:popular_1:0523,889
+640,id=640_genre=popular_c-id=575_e-id=13_ic_category_1,The Yardbirds,Shapes Of Things,575,576,hcorp:popular_1:0576,990
+641,id=641_genre=popular_c-id=627_e-id=33_ic_category_1,Switch,There'll Never Be,627,628,hcorp:popular_1:0628,1078
+642,id=642_genre=popular_c-id=44_e-id=95_ic_category_1,Martha Reeves & The Vandellas,Nowhere To Run,44,45,hcorp:popular_1:0045,74
+643,id=643_genre=popular_c-id=77_e-id=34_ic_category_1,Eric Clapton,Promises,77,78,hcorp:popular_1:0078,124
+644,id=644_genre=popular_c-id=650_e-id=35_ic_category_1,"David Crosby,Graham Nash",Carry Me,650,651,hcorp:popular_1:0651,1124
+645,id=645_genre=popular_c-id=360_e-id=20_ic_category_1,Clarence Carter,Too Weak To Fight,360,361,hcorp:popular_1:0361,585
+646,id=646_genre=popular_c-id=181_e-id=16_ic_category_1,Marvin Gaye & Kim Weston,It Takes Two,181,182,hcorp:popular_1:0182,280
+647,id=647_genre=popular_c-id=70_e-id=51_ic_category_1,Cream,Sunshine of Your Love,70,71,hcorp:popular_1:0071,114
+648,id=648_genre=popular_c-id=530_e-id=35_ic_category_1,James Taylor,Country Road,530,531,hcorp:popular_1:0531,901
+649,id=649_genre=popular_c-id=323_e-id=112_ic_category_1,George Harrison,Years Ago,323,324,hcorp:popular_1:0324,517
+650,id=650_genre=popular_c-id=580_e-id=8_ic_category_1,J. Geils Band,Freeze-Frame,580,581,hcorp:popular_1:0581,1002
+651,id=651_genre=popular_c-id=104_e-id=110_ic_category_1,25 or 6 to 4,Chicago,104,105,hcorp:popular_1:0105,176
+652,id=652_genre=popular_c-id=664_e-id=23_ic_category_1,Sonny & Cher,A Cowboy's Work Is Never Done,664,665,hcorp:popular_1:0665,1147
+653,id=653_genre=popular_c-id=591_e-id=5_ic_category_1,Wilson Pickett,Soul Dance Number 3,591,592,hcorp:popular_1:0592,1021
+654,id=654_genre=popular_c-id=645_e-id=17_ic_category_1,Glen Campbell,Wichita Lineman,645,646,hcorp:popular_1:0646,1114
+655,id=655_genre=popular_c-id=605_e-id=53_ic_category_1,Jefferson Starship,Count On Me,605,606,hcorp:popular_1:0606,1045
+656,id=656_genre=popular_c-id=270_e-id=56_ic_category_1,The Who,Pinball Wizard,270,271,hcorp:popular_1:0271,421
+657,id=657_genre=popular_c-id=423_e-id=30_ic_category_1,Rita Coolidge,Fever,423,424,hcorp:popular_1:0424,692
+658,id=658_genre=popular_c-id=644_e-id=88_ic_category_1,Charlie Rich,Lonely Weekends,644,645,hcorp:popular_1:0645,1113
+659,id=659_genre=popular_c-id=406_e-id=63_ic_category_1,The J. Geils Band,Looking For A Love,406,407,hcorp:popular_1:0407,662
+660,id=660_genre=popular_c-id=8_e-id=58_ic_category_1,Tanya Tucker,Here's Some Love,8,9,hcorp:popular_1:0009,19
+661,id=661_genre=popular_c-id=620_e-id=40_ic_category_1,Bruce Springsteen,My Hometown,620,621,hcorp:popular_1:0621,1066
+662,id=662_genre=popular_c-id=731_e-id=105_ic_category_1,Van Halen,When It's Love,731,732,hcorp:popular_1:0732,1281
+663,id=663_genre=popular_c-id=728_e-id=5_ic_category_1,Milli Vanilli,Baby Don t Forget My Number,728,729,hcorp:popular_1:0729,1276
+664,id=664_genre=popular_c-id=572_e-id=22_ic_category_1,Barbara Lewis,Hello Stranger,572,573,hcorp:popular_1:0573,984
+665,id=665_genre=popular_c-id=124_e-id=77_ic_category_1,The O'Jays,Love Train,124,125,hcorp:popular_1:0125,202
+666,id=666_genre=popular_c-id=146_e-id=63_ic_category_1,The Beach Boys,Still Cruisin,146,147,hcorp:popular_1:0147,228
+667,id=667_genre=popular_c-id=127_e-id=116_ic_category_1,Billy Joel,Pressure,127,128,hcorp:popular_1:0128,205
+668,id=668_genre=popular_c-id=697_e-id=35_ic_category_1,Lesley Gore,You Don't Own Me,697,698,hcorp:popular_1:0698,1211
+669,id=669_genre=popular_c-id=698_e-id=17_ic_category_1,Sonny & Cher,Baby Don't Go,698,699,hcorp:popular_1:0699,1212
+670,id=670_genre=popular_c-id=366_e-id=38_ic_category_1,Duran Duran,All she wants is,366,367,hcorp:popular_1:0367,592
+671,id=671_genre=popular_c-id=28_e-id=51_ic_category_1,Beatles,Love Me Do,28,29,hcorp:popular_1:0029,50
+672,id=672_genre=popular_c-id=16_e-id=38_ic_category_1,R Dean Tayloy,Indiana Wants Me,16,17,hcorp:popular_1:0017,30
+673,id=673_genre=popular_c-id=153_e-id=19_ic_category_1,The Beach Boys,Sail On Sailor,153,154,hcorp:popular_1:0154,239
+674,id=674_genre=popular_c-id=183_e-id=13_ic_category_1,Bob Dylan,Gotta Serve Somebody,183,184,hcorp:popular_1:0184,282
+675,id=675_genre=popular_c-id=383_e-id=61_ic_category_1,Ray Parker Jr,Ghostbusters Theme,383,384,hcorp:popular_1:0384,621
+676,id=676_genre=popular_c-id=618_e-id=34_ic_category_1,Dion,This Little Girl,618,619,hcorp:popular_1:0619,1063
+677,id=677_genre=popular_c-id=563_e-id=24_ic_category_1,Brenda Lee,Coming On Strong,563,564,hcorp:popular_1:0564,968
+678,id=678_genre=popular_c-id=724_e-id=44_ic_category_1,Elton John,Who Wears These Shoes,724,725,hcorp:popular_1:0725,1269
+679,id=679_genre=popular_c-id=502_e-id=101_ic_category_1,Elton John,Goodbye Yellow Brick Road,502,503,hcorp:popular_1:0503,842
+680,id=680_genre=popular_c-id=585_e-id=166_ic_category_1,Sting,All This Time,585,586,hcorp:popular_1:0586,1012
+681,id=681_genre=popular_c-id=678_e-id=123_ic_category_1,Bob Seger,Night Moves,678,679,hcorp:popular_1:0679,1171
+682,id=682_genre=popular_c-id=576_e-id=119_ic_category_1,Elton John,The Bitch Is Back,576,577,hcorp:popular_1:0577,991
+683,id=683_genre=popular_c-id=129_e-id=56_ic_category_1,Steve Winwood,Back in the High Life Again,129,130,hcorp:popular_1:0130,207
+684,id=684_genre=popular_c-id=483_e-id=63_ic_category_1,Poison,Unskinny Bop,483,484,hcorp:popular_1:0484,810
+685,id=685_genre=popular_c-id=388_e-id=66_ic_category_1,Stevie Wonder,If You really love me,388,389,hcorp:popular_1:0389,631
+686,id=686_genre=popular_c-id=250_e-id=94_ic_category_1,Candi Staton,Young Hearts Run Free,250,251,hcorp:popular_1:0251,390
+687,id=687_genre=popular_c-id=338_e-id=33_ic_category_1,Michael Johnson,Almost by Being In Love,338,339,hcorp:popular_1:0339,547
+688,id=688_genre=popular_c-id=262_e-id=63_ic_category_1,Gino Vannelli,Wild Horses,262,263,hcorp:popular_1:0263,407
+689,id=689_genre=popular_c-id=301_e-id=66_ic_category_1,J. Geils Band,One Last Kiss,301,302,hcorp:popular_1:0302,478
+690,id=690_genre=popular_c-id=37_e-id=37_ic_category_1,Roy Orbison,Cry Softly Lonely One,37,38,hcorp:popular_1:0038,64
+691,id=691_genre=popular_c-id=389_e-id=58_ic_category_1,Daryl Hall & John Oates,Maneater,389,390,hcorp:popular_1:0390,633
+692,id=692_genre=popular_c-id=64_e-id=13_ic_category_1,Rush,The Spirit of Radio,64,65,hcorp:popular_1:0065,105
+693,id=693_genre=popular_c-id=524_e-id=9_ic_category_1,The Who,Happy Jack,524,525,hcorp:popular_1:0525,891
+694,id=694_genre=popular_c-id=633_e-id=15_ic_category_1,The Crystals,There's No Other (Like My Baby),633,634,hcorp:popular_1:0634,1094
+695,id=695_genre=popular_c-id=193_e-id=85_ic_category_1,Whitesnake,Here I Go Again,193,194,hcorp:popular_1:0194,300
+696,id=696_genre=popular_c-id=322_e-id=62_ic_category_1,Nat King Cole,Those Lazy-Hazy-Crazy Days Of Summer,322,323,hcorp:popular_1:0323,516
+697,id=697_genre=popular_c-id=685_e-id=22_ic_category_1,Sagittarius,My World Fell Down,685,686,hcorp:popular_1:0686,1182
+698,id=698_genre=popular_c-id=640_e-id=48_ic_category_1,Rob Base,It Takes Two,640,641,hcorp:popular_1:0641,1109
+699,id=699_genre=popular_c-id=105_e-id=95_ic_category_1,Nathalie Cole,I've Got Love On My Mind,105,106,hcorp:popular_1:0106,177
+700,id=700_genre=popular_c-id=195_e-id=53_ic_category_1,Juice Newton,Break It To Me Gently,195,196,hcorp:popular_1:0196,303
+701,id=701_genre=popular_c-id=199_e-id=19_ic_category_1,Roger Miller,You Can't Roller Skate In A Buffalo Herd,199,200,hcorp:popular_1:0200,308
+702,id=702_genre=popular_c-id=624_e-id=9_ic_category_1,Fats Domino,Be My Guest,624,625,hcorp:popular_1:0625,1072
+703,id=703_genre=popular_c-id=140_e-id=42_ic_category_1,Nat King Cole,Ramblin' Rose,140,141,hcorp:popular_1:0141,220
+704,id=704_genre=popular_c-id=135_e-id=31_ic_category_1,Ray Charles,The Right Time,135,136,hcorp:popular_1:0136,214
+705,id=705_genre=popular_c-id=207_e-id=49_ic_category_1,The Supremes,Floy Joy,207,208,hcorp:popular_1:0208,320
+706,id=706_genre=popular_c-id=128_e-id=84_ic_category_1,Paul McCartney,Maybe I'm Amazed,128,129,hcorp:popular_1:0129,206
+707,id=707_genre=popular_c-id=637_e-id=80_ic_category_1,Tina Turner,What You See Is What You Get,637,638,hcorp:popular_1:0638,1104
+708,id=708_genre=popular_c-id=515_e-id=123_ic_category_1,Rick Springfield,Don't Talk To Strangers,515,516,hcorp:popular_1:0516,865
+709,id=709_genre=popular_c-id=283_e-id=46_ic_category_1,The Pointer Sisters,Jump (for My Love),283,284,hcorp:popular_1:0284,448
+710,id=710_genre=popular_c-id=249_e-id=42_ic_category_1,General Public,Tenderness,249,250,hcorp:popular_1:0250,389
+711,id=711_genre=popular_c-id=303_e-id=45_ic_category_1,Rick James,Give It To Me Baby,303,304,hcorp:popular_1:0304,480
+712,id=712_genre=popular_c-id=566_e-id=112_ic_category_1,Pat Benatar,Little Too Late,566,567,hcorp:popular_1:0567,973
+713,id=713_genre=popular_c-id=409_e-id=65_ic_category_1,Queensryche,Silent Lucidity,409,410,hcorp:popular_1:0410,670
+714,id=714_genre=popular_c-id=363_e-id=82_ic_category_1,"Crosby, Stills & Nash",Southern Cross,363,364,hcorp:popular_1:0364,589
+715,id=715_genre=popular_c-id=123_e-id=66_ic_category_1,Anne Murray,Could I Have This Dance,123,124,hcorp:popular_1:0124,199
+716,id=716_genre=popular_c-id=143_e-id=113_ic_category_1,Michael Jackson,Wanna Be Startin' Somethin',143,144,hcorp:popular_1:0144,223
+717,id=717_genre=popular_c-id=312_e-id=41_ic_category_1,The Staple Singers,City In The Sky,312,313,hcorp:popular_1:0313,497
+718,id=718_genre=popular_c-id=466_e-id=9_ic_category_1,Johnny Cash,The Ways Of A Woman In Love,466,467,hcorp:popular_1:0467,787
+719,id=719_genre=popular_c-id=433_e-id=66_ic_category_1,John Denver,Some Days Are Diamonds (Some Days Are Stone),433,434,hcorp:popular_1:0434,711
+720,id=720_genre=popular_c-id=523_e-id=88_ic_category_1,Ray Charles,Let's Go Get Stoned,523,524,hcorp:popular_1:0524,890
+721,id=721_genre=popular_c-id=671_e-id=57_ic_category_1,Cliff Richard,Daddy's Home,671,672,hcorp:popular_1:0672,1161
+722,id=722_genre=popular_c-id=486_e-id=49_ic_category_1,Leslie Gore,California Nights,486,487,hcorp:popular_1:0487,813
+723,id=723_genre=popular_c-id=205_e-id=75_ic_category_1,Cheap Trick,Dream Police,205,206,hcorp:popular_1:0206,317
+724,id=724_genre=popular_c-id=295_e-id=57_ic_category_1,Corey Hart,In Your Soul,295,296,hcorp:popular_1:0296,469
+725,id=725_genre=popular_c-id=326_e-id=41_ic_category_1,Led Zeppelin,Trampled Under Foot,326,327,hcorp:popular_1:0327,525
+726,id=726_genre=popular_c-id=704_e-id=18_ic_category_1,Buck Owens,I've Got A Tiger By The Tail,704,705,hcorp:popular_1:0705,1225
+727,id=727_genre=popular_c-id=473_e-id=28_ic_category_1,Billy Idol,Catch My Fall,473,474,hcorp:popular_1:0474,794
+728,id=728_genre=popular_c-id=311_e-id=49_ic_category_1,Kenny Rogers,I Don't Need You,311,312,hcorp:popular_1:0312,494
+729,id=729_genre=popular_c-id=465_e-id=82_ic_category_1,The Righteous Brothers,Soul And Inspiration,465,466,hcorp:popular_1:0466,785
+730,id=730_genre=popular_c-id=333_e-id=29_ic_category_1,Billy Preston,With You I'm Born Again,333,334,hcorp:popular_1:0334,540
+731,id=731_genre=popular_c-id=289_e-id=66_ic_category_1,The Drifters,On Broadway,289,290,hcorp:popular_1:0290,461
+732,id=732_genre=popular_c-id=503_e-id=60_ic_category_1,Cher,If I Could Turn Back Time,503,504,hcorp:popular_1:0504,843
+733,id=733_genre=popular_c-id=189_e-id=44_ic_category_1,The Police,Every Little Thing She Does Is Magic,189,190,hcorp:popular_1:0190,293
+734,id=734_genre=popular_c-id=204_e-id=113_ic_category_1,Redbone,Come And Get Your Love,204,205,hcorp:popular_1:0205,315
+735,id=735_genre=popular_c-id=663_e-id=10_ic_category_1,Dion,"Abraham, Martin And John",663,664,hcorp:popular_1:0664,1146
+736,id=736_genre=popular_c-id=570_e-id=156_ic_category_1,Bananarama,Venus,570,571,hcorp:popular_1:0571,981
+737,id=737_genre=popular_c-id=72_e-id=26_ic_category_1,Eric Clapton,Let It Rain,72,73,hcorp:popular_1:0073,116
+738,id=738_genre=popular_c-id=66_e-id=54_ic_category_1,Lynyrd Skynyrd,Sweet Home Alabama,66,67,hcorp:popular_1:0067,107
+739,id=739_genre=popular_c-id=197_e-id=21_ic_category_1,Village People,In The Navy,197,198,hcorp:popular_1:0198,306
+740,id=740_genre=popular_c-id=52_e-id=97_ic_category_1,David Bowie,Space Oddity,52,53,hcorp:popular_1:0053,86
+741,id=741_genre=popular_c-id=589_e-id=107_ic_category_1,Prince & Sheena Easton,The Arms Of Orion,589,590,hcorp:popular_1:0590,1019
+742,id=742_genre=popular_c-id=24_e-id=68_ic_category_1,Phil Collins,Two Hearts,24,25,hcorp:popular_1:0025,43
+743,id=743_genre=popular_c-id=381_e-id=95_ic_category_1,Marvin Gaye & Tammy Terrell,If I Could Build My Whole World Around You,381,382,hcorp:popular_1:0382,619
+744,id=744_genre=popular_c-id=308_e-id=78_ic_category_1,Hall and Oates,Rich Girl,308,309,hcorp:popular_1:0309,485
+745,id=745_genre=popular_c-id=427_e-id=43_ic_category_1,Chicago,Does Anybody Really Know What Time It Is,427,428,hcorp:popular_1:0428,700
+746,id=746_genre=popular_c-id=296_e-id=54_ic_category_1,Kenny Rogers,Sweet Music Man,296,297,hcorp:popular_1:0297,472
+747,id=747_genre=popular_c-id=510_e-id=159_ic_category_1,Hi-Five,I Like The Way (The Kissing Game),510,511,hcorp:popular_1:0511,856
+748,id=748_genre=popular_c-id=603_e-id=46_ic_category_1,Duran Duran,Is There Something I Should Know,603,604,hcorp:popular_1:0604,1043
+749,id=749_genre=popular_c-id=227_e-id=28_ic_category_1,Elton John,Philadelphia Freedom,227,228,hcorp:popular_1:0228,354
+750,id=750_genre=popular_c-id=27_e-id=58_ic_category_1,Barbara Streisand,People,27,28,hcorp:popular_1:0028,49
+751,id=751_genre=popular_c-id=96_e-id=87_ic_category_1,Level 42,Something About You,96,97,hcorp:popular_1:0097,158
+752,id=752_genre=popular_c-id=307_e-id=18_ic_category_1,Brenda Lee,Heart in Hand,307,308,hcorp:popular_1:0308,484
+753,id=753_genre=popular_c-id=513_e-id=33_ic_category_1,Judas Priest,You've Got Another Thing Comin',513,514,hcorp:popular_1:0514,861
+754,id=754_genre=popular_c-id=277_e-id=31_ic_category_1,The 5th Dimension,If I Could Reach You,277,278,hcorp:popular_1:0278,433
+755,id=755_genre=popular_c-id=144_e-id=50_ic_category_1,Glen Campbell,Galveston,144,145,hcorp:popular_1:0145,224
+756,id=756_genre=popular_c-id=111_e-id=143_ic_category_1,Pet Shop Boys,Always on My Mind,111,112,hcorp:popular_1:0112,184
+757,id=757_genre=popular_c-id=202_e-id=32_ic_category_1,Anne Murray,Daydream Believer,202,203,hcorp:popular_1:0203,312
+758,id=758_genre=popular_c-id=351_e-id=9_ic_category_1,Gary U.S. Bonds,Quarter To Three,351,352,hcorp:popular_1:0352,571
+759,id=759_genre=popular_c-id=594_e-id=109_ic_category_1,Tina Turner,We Don t Need Another Hero (Thunderdome),594,595,hcorp:popular_1:0595,1031
+760,id=760_genre=popular_c-id=345_e-id=94_ic_category_1,Simon & Garfunkel,Cecilia,345,346,hcorp:popular_1:0346,560
+761,id=761_genre=popular_c-id=173_e-id=56_ic_category_1,The 5th Dimension,(Last Night) I Didn't Get To Sleep At All,173,174,hcorp:popular_1:0174,265
+762,id=762_genre=popular_c-id=57_e-id=74_ic_category_1,Rolling Stones,Wild Horses,57,58,hcorp:popular_1:0058,94
+763,id=763_genre=popular_c-id=583_e-id=76_ic_category_1,Dr. Hook,The Millionaire,583,584,hcorp:popular_1:0584,1009
+764,id=764_genre=popular_c-id=669_e-id=126_ic_category_1,Jackson Browne,Running On Empty,669,670,hcorp:popular_1:0670,1155
+765,id=765_genre=popular_c-id=422_e-id=31_ic_category_1,The Neville Brothers,Tell It Like It Is,422,423,hcorp:popular_1:0423,691
+766,id=766_genre=popular_c-id=224_e-id=75_ic_category_1,Bachman-Turner Overdrive,Roll On Down The Highway,224,225,hcorp:popular_1:0225,351
+767,id=767_genre=popular_c-id=442_e-id=29_ic_category_1,Psychedelic Furs,Pretty In Pink,442,443,hcorp:popular_1:0443,729
+768,id=768_genre=popular_c-id=415_e-id=5_ic_category_1,Otis Redding,Chained And Bound,415,416,hcorp:popular_1:0416,678
+769,id=769_genre=popular_c-id=177_e-id=6_ic_category_1,The Beach Boys,In My Room,177,178,hcorp:popular_1:0178,270
+770,id=770_genre=popular_c-id=136_e-id=42_ic_category_1,Heart,Magic Man,136,137,hcorp:popular_1:0137,215
+771,id=771_genre=popular_c-id=294_e-id=79_ic_category_1,The Temptations,Ain't Too Proud To Beg,294,295,hcorp:popular_1:0295,468
+772,id=772_genre=popular_c-id=484_e-id=45_ic_category_1,Jermaine Jackson,Let's Get Serious,484,485,hcorp:popular_1:0485,811
+773,id=773_genre=popular_c-id=378_e-id=79_ic_category_1,Mrs. Robinson,Simon & Garfunkel,378,379,hcorp:popular_1:0379,616
+774,id=774_genre=popular_c-id=274_e-id=63_ic_category_1,Ocean,Put Your Hand In The Hand,274,275,hcorp:popular_1:0275,429
+775,id=775_genre=popular_c-id=317_e-id=29_ic_category_1,Commodores,Still,317,318,hcorp:popular_1:0318,507
+776,id=776_genre=popular_c-id=573_e-id=49_ic_category_1,The Jacksons,Dancing Machine,573,574,hcorp:popular_1:0574,985
+777,id=777_genre=popular_c-id=475_e-id=247_ic_category_1,Teddy Pendergrass,I Don't Love You Anymore,475,476,hcorp:popular_1:0476,797
+778,id=778_genre=popular_c-id=276_e-id=68_ic_category_1,The Osmonds,One Bad Apple,276,277,hcorp:popular_1:0277,432
+779,id=779_genre=popular_c-id=169_e-id=37_ic_category_1,Patrick Hernandez,Born To Be Alive,169,170,hcorp:popular_1:0170,259
+780,id=780_genre=popular_c-id=273_e-id=32_ic_category_1,The Beach Boys,Bluebirds Over The Mountain,273,274,hcorp:popular_1:0274,427
+781,id=781_genre=popular_c-id=350_e-id=34_ic_category_1,Dave Dudley,Six Days On The Road,350,351,hcorp:popular_1:0351,570
+782,id=782_genre=popular_c-id=198_e-id=66_ic_category_1,Smokey Robinson,Cruisin',198,199,hcorp:popular_1:0199,307
+783,id=783_genre=popular_c-id=75_e-id=119_ic_category_1,Freddie Jackson,Have You Ever Loved Somebody,75,76,hcorp:popular_1:0076,122
+784,id=784_genre=popular_c-id=29_e-id=38_ic_category_1,Cliff Richard,Carrie,29,30,hcorp:popular_1:0030,51
+785,id=785_genre=popular_c-id=450_e-id=47_ic_category_1,Louis Prima & Keely Smith,That Old Black Magic,450,451,hcorp:popular_1:0451,746
+786,id=786_genre=popular_c-id=632_e-id=40_ic_category_1,Heart,Who Will You Run To,632,633,hcorp:popular_1:0633,1089
+787,id=787_genre=popular_c-id=282_e-id=42_ic_category_1,Chicago,Old Days,282,283,hcorp:popular_1:0283,445
+788,id=788_genre=popular_c-id=494_e-id=36_ic_category_1,Biz Markie,Just A Friend,494,495,hcorp:popular_1:0495,827
+789,id=789_genre=popular_c-id=539_e-id=17_ic_category_1,The Ritchie Family,The Best Disco In Town,539,540,hcorp:popular_1:0540,925
+790,id=790_genre=popular_c-id=325_e-id=252_ic_category_1,Tina Turner,Private Dancer,325,326,hcorp:popular_1:0326,524
+791,id=791_genre=popular_c-id=509_e-id=18_ic_category_1,The Beatles,I Saw Her Standing There,509,510,hcorp:popular_1:0510,853
+792,id=792_genre=popular_c-id=574_e-id=92_ic_category_1,Leo Sayer,You Make Me Feel Like Dancing,574,575,hcorp:popular_1:0575,986
+793,id=793_genre=popular_c-id=38_e-id=57_ic_category_1,The Contours,Do You Love Me,38,39,hcorp:popular_1:0039,66
+794,id=794_genre=popular_c-id=354_e-id=24_ic_category_1,Canned Heat,Let's work Together,354,355,hcorp:popular_1:0355,577
+795,id=795_genre=popular_c-id=192_e-id=82_ic_category_1,Bobby Womack,That's the Way I Feel About Cha,192,193,hcorp:popular_1:0193,297
+796,id=796_genre=popular_c-id=216_e-id=113_ic_category_1,Kenny Rogers,Through The Years,216,217,hcorp:popular_1:0217,338
+797,id=797_genre=popular_c-id=628_e-id=78_ic_category_1,Alabama,Take Me Down,628,629,hcorp:popular_1:0629,1082
+798,id=798_genre=popular_c-id=517_e-id=11_ic_category_1,Elvis Presley,She Thinks I Still Care,517,518,hcorp:popular_1:0518,875
+799,id=799_genre=popular_c-id=10_e-id=40_ic_category_1,The 5th Dimension,Never My Love,10,11,hcorp:popular_1:0011,22
+800,id=800_genre=popular_c-id=332_e-id=40_ic_category_1,Cheap Trick,Stop This Game,332,333,hcorp:popular_1:0333,539
+801,id=801_genre=popular_c-id=420_e-id=36_ic_category_1,Jan & Dean,"The Anaheim, Azusa & Cucamonga Sewing Circle, Book Review And Timing Association",420,421,hcorp:popular_1:0421,689
+802,id=802_genre=popular_c-id=260_e-id=12_ic_category_1,The Crystals,He's A Rebel,260,261,hcorp:popular_1:0261,404
+803,id=803_genre=popular_c-id=269_e-id=119_ic_category_1,George Harrison,Blow Away,269,270,hcorp:popular_1:0270,419
+804,id=804_genre=popular_c-id=137_e-id=91_ic_category_1,Isaac Hayes,Do your thing,137,138,hcorp:popular_1:0138,216
+805,id=805_genre=popular_c-id=92_e-id=23_ic_category_1,The Everly Brothers,Walk Right Back,92,93,hcorp:popular_1:0093,153
+806,id=806_genre=popular_c-id=535_e-id=23_ic_category_1,Dr. Hook,If Not You,535,536,hcorp:popular_1:0536,914
+807,id=807_genre=popular_c-id=246_e-id=24_ic_category_1,Wilson Phillips,Hold On,246,247,hcorp:popular_1:0247,385
+808,id=808_genre=popular_c-id=725_e-id=69_ic_category_1,Kaoma,Lambada,725,726,hcorp:popular_1:0726,1270
+809,id=809_genre=popular_c-id=155_e-id=90_ic_category_1,Bing Crosby,White Christmas,155,156,hcorp:popular_1:0156,241
+810,id=810_genre=popular_c-id=159_e-id=66_ic_category_1,Glen Campbell,Rhinestone Cowboy,159,160,hcorp:popular_1:0160,246
+811,id=811_genre=popular_c-id=498_e-id=96_ic_category_1,Oliver,Good Morning Starshine,498,499,hcorp:popular_1:0499,834
+812,id=812_genre=popular_c-id=131_e-id=62_ic_category_1,The Eagles,Already Gone,131,132,hcorp:popular_1:0132,209
+813,id=813_genre=popular_c-id=40_e-id=83_ic_category_1,Gino Vannelli,Black Cars,40,41,hcorp:popular_1:0041,68
+814,id=814_genre=popular_c-id=305_e-id=21_ic_category_1,"Evelyn ""Champagne"" King",I'm In Love,305,306,hcorp:popular_1:0306,482
+815,id=815_genre=popular_c-id=717_e-id=120_ic_category_1,Genesis,Abacab,717,718,hcorp:popular_1:0718,1256
+816,id=816_genre=popular_c-id=635_e-id=13_ic_category_1,Dion,(I was) Born To Cry,635,636,hcorp:popular_1:0636,1101
+817,id=817_genre=popular_c-id=356_e-id=61_ic_category_1,The Yardbirds,Heart Full of Soul,356,357,hcorp:popular_1:0357,579
+818,id=818_genre=popular_c-id=21_e-id=65_ic_category_1,Rolling Stones,It's Only Rock and Roll (But I Like It),21,22,hcorp:popular_1:0022,39
+819,id=819_genre=popular_c-id=430_e-id=211_ic_category_1,Jethro Tull,Living In The Past,430,431,hcorp:popular_1:0431,706
+820,id=820_genre=popular_c-id=62_e-id=11_ic_category_1,Ray Price,For The Good Times,62,63,hcorp:popular_1:0063,102

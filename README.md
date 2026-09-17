@@ -12,10 +12,20 @@ file. Run `python scripts/package_release.py WAV_DIRECTORY OUTPUT_ZIP` to
 validate source WAVs against that inventory and recreate the deterministic
 release archive.
 
+`source_pieces.csv` links every stimulus to its originating song. It records
+the artist and title, zero-based IDyOM composition index, one-based hcorp
+`popular_1` sequence number and record id, and original McGill Billboard song
+id. The mapping is metadata only: the v1.0.0 audio release is unchanged.
+
 ## Provenance
 
-- Musical material: chord sequences sampled from the CC0 McGill Billboard
-  Project corpus.
+- Musical material: chord sequences sampled from the CC0
+  [McGill Billboard Project](https://ddmal.ca/research/The_McGill_Billboard_Project_%28Chord_Analysis_Dataset%29/)
+  corpus.
+- Piece identities: the pinned
+  [hcorp `popular_1` source](https://github.com/pmcharrison/hcorp/blob/fa78ba60888123f3a6c1ae80f4b95f444da78972/data-raw/json/popular_1.json)
+  was aligned as an exact ordered subsequence of the original numeric McGill
+  Billboard song directories.
 - Study synthesis: TiMidity++ 2.14.0, acoustic-grand-piano timbre, 60 bpm.
 - SoundFont: public domain, confirmed by the dataset author on 2026-09-16;
   the exact SoundFont identity is no longer recoverable.
@@ -24,6 +34,12 @@ release archive.
 
 Only stimuli and their technical inventory are included. Participant-level
 data and personal information are not part of this repository.
+
+The published aggregate source table contains inconsistent artist/title
+separator whitespace and accidental outer quote characters in two display
+strings. `source_pieces.csv` gives canonical structured artist/title metadata,
+including corrected values for stimuli 630 and 814, without changing the
+source data or audio.
 
 ## Citation
 
