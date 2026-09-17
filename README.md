@@ -15,7 +15,10 @@ release archive.
 `source_pieces.csv` links every stimulus to its originating song. It records
 the artist and title, zero-based IDyOM composition index, one-based hcorp
 `popular_1` sequence number and record id, and original McGill Billboard song
-id. The mapping is metadata only: the v1.0.0 audio release is unchanged.
+id. It also records the one-based source-chord span from the excerpt's first
+chord through its rated target chord; the two post-target chords remain in the
+eight-chord stimulus. The mapping is metadata only: the v1.0.0 audio release
+is unchanged.
 
 ## Provenance
 
